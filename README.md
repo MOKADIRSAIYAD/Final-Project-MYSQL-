@@ -83,7 +83,7 @@ A complete MySQL database for a University Course Management System covering CRU
 ## 👤 Author
 
 **Your Name**
-Red & White Skill Education – SQL Final Project
+MOHAMMADKADIR SAIYAD
 
 ---
 
